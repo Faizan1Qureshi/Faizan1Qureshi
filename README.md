@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faizan Nabi</h1>
+<h1 align="center">Hi 👋, I'm Faizan Nabi<a href="https://github.com/Faizan1Qureshi"></h1>
 - 🔭 I’m currently working on **Python, Next JS**
 
 - 🌱 I’m currently learning **Generative AI & Chatbot.**
