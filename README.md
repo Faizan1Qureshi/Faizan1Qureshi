@@ -1,9 +1,5 @@
 ## Hi there Faizan Nabi 👋
 
-<!--
-**Faizan1Qureshi/Faizan1Qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on Python, Next JS, TS
 - 🌱 I’m currently learning Generative AI & Chatbot.
 
@@ -16,5 +12,9 @@ Tech Stack:
 
 
 
+
+
+<!--
+**Faizan1Qureshi/Faizan1Qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
